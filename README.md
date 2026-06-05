@@ -37,6 +37,6 @@ Automated EC2 configuration using Ansible playbooks and roles to install Docker,
 
 ## Contact
 
-- GitHub: github.com/YOUR_USERNAME
-- LinkedIn: linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- GitHub: github.com/sujithsumo-cloud
+- LinkedIn: linkedin.com/in/www.linkedin.com/in/sujith-sujith-p-829b08407
+- Email: sujithsumo@gmail.com
