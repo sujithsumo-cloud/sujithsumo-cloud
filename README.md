@@ -1,42 +1,48 @@
-# Hi, I'm Sujith 👋
+# Hi, I'm [sujith] 👋
 
-## Aspiring Cloud & DevOps Engineer
+## About me
+- 🎓 B.sc / M.sc  [Computer Science], [A.V.V.M Sri Puspham Collage]
+- 💼 Fresher DevOps Engineer | Open to opportunities
+- 🌱 Currently learning: Kubernetes, AWS, and CI/CD pipelines
+- 📍 Thanjavur, Tamil Nadu, India
+- 📫 Reach me at: **sujithsumo@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/sujith sujith.p](www.linkedin.com/in/sujith-sujith-p-829b08407)
 
-I am a Computer Science graduate building hands-on DevOps projects using AWS, Docker, Jenkins, Terraform, Ansible, Linux, and GitHub.
+---
 
-## Technical Skills
+## 🛠️ Tech stack
 
-- Cloud: AWS EC2, VPC, IAM, RDS, S3
-- DevOps: Docker, Docker Compose, Jenkins, GitHub Actions
-- Infrastructure as Code: Terraform
-- Configuration Management: Ansible
-- Web Server: Nginx
-- OS & Scripting: Linux, Bash
-- Version Control: Git, GitHub
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Featured DevOps Projects
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
-### Jenkins + Docker + EC2 CI/CD Project
-Automated Docker image build, container deployment, and health check validation using Jenkins pipeline on AWS EC2.
+---
 
-### Docker Flask MySQL Nginx Project
-Built a multi-container application using Docker Compose with Flask, MySQL, Nginx reverse proxy, custom networking, and persistent volumes.
+## 📌 Featured projects
 
-### Terraform AWS 2-Tier Infrastructure Project
-Provisioned AWS VPC, public/private subnets, ALB, Auto Scaling Group, Launch Template, RDS MySQL, NAT Gateway, route tables, and security groups using Terraform modules.
+### CI/CD Pipeline — Todo App on Kubernetes
+End-to-end pipeline using Jenkins, Docker, and Kubernetes.
+Provisioned AWS EC2 with Terraform, configured with Ansible.
+→ [View repo](https://github.com/sujithsumo-cloud/todo-devops-pipeline)
 
-### Ansible EC2 Docker Nginx Automation
-Automated EC2 configuration using Ansible playbooks and roles to install Docker, deploy Nginx, and run containers.
+---
 
-## Currently Learning
+## 📊 GitHub stats
 
-- Advanced Jenkins pipelines
-- Terraform remote backend with S3 and DynamoDB
-- Kubernetes basics
-- AWS real-time deployment projects
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujithsumo-cloud&show_icons=true&theme=default&hide_border=true)
 
-## Contact
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithsumo-cloud&layout=compact&hide_border=true)
 
-- GitHub: github.com/sujithsumo-cloud
-- LinkedIn: linkedin.com/in/www.linkedin.com/in/sujith-sujith-p-829b08407
-- Email: sujithsumo@gmail.com
+---
+⭐ Star my repos if you find them useful!
